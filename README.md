@@ -2,7 +2,7 @@
 
 ![image](https://github.com/hanani8/Visualization-of-Josephus-Problem/assets/31515421/9a313ff1-8206-4626-af4c-1f825292460f)
 
-[Link/](https://hanani8.github.io/josephus.html)
+[Link](https://hanani8.github.io/josephus.html)
 
 The Josephus Problem Visualizer is a web-based tool for visualizing the Josephus problem, which is a famous theoretical problem in mathematics and computer science. It demonstrates how a group of people can be eliminated in a fixed sequence until only one person remains.
 
