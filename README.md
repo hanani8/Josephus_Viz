@@ -1,6 +1,6 @@
 # Josephus Problem Visualizer
 
-![image](https://github.com/hanani8/Visualization-of-Josephus-Problem/assets/31515421/9a313ff1-8206-4626-af4c-1f825292460f)
+![](https://github.com/hanani8/Visualization-of-Josephus-Problem/blob/main/ezgif.com-video-to-gif.gif)
 
 [Link](https://hanani8.github.io/josephus.html)
 
